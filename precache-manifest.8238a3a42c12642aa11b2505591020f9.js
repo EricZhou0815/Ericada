@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/QualitySouvenirs.cf223f21.png"
   },
   {
-    "revision": "3d93af7f475046cfd2e4",
+    "revision": "d9ea87f4e739eb4a75a6",
     "url": "/static/css/main.560a29e3.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/Boad-Seat-Reservation.7b8a5d34.png"
   },
   {
-    "revision": "3d93af7f475046cfd2e4",
-    "url": "/static/js/main.3d93af7f.chunk.js"
+    "revision": "d9ea87f4e739eb4a75a6",
+    "url": "/static/js/main.d9ea87f4.chunk.js"
   },
   {
     "revision": "a9cf5947c1b4ffcf857555f1c8a59cd1",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/media/hero-image.70764b84.jpg"
   },
   {
-    "revision": "01bbe911431fe71c48b6f05f6afa7d8a",
+    "revision": "38fe35f8f4741e84716edb51c0017108",
     "url": "/index.html"
   }
 ];
