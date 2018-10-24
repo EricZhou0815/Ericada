@@ -1,41 +1,36 @@
 import React,{Component} from 'react';
 import ProjectCard from '../components/project-card/ProjectCard';
+import boatseatreservation from '../images/Boad-Seat-Reservation.png';
+import qualitysouvenirs from '../images/QualitySouvenirs.png';
+import QS from '../images/QS.png';
 
 class Portfolio extends Component {
     render() {
         const projects=[
             {
-                imageUrl:'https://doc-00-74-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/i3fl5taq6t7qdbr26ci530mjabjhkpfc/1539633600000/06818399670873483218/*/1F4ZYhxPFmSaGB0tahwnlQjnzPPAY-ONo',
-                name:'Boat Seats Booking UI',
-                description:'The web UI is an assignment for Internet & Website Development',
+                imageUrl:boatseatreservation,
+                name:'Taupo Boat Adventure',
+                description:'Boat Seats Booking UI Design',
                 techStacks:['HTML','CSS','Javascript'],
                 demoUrl:'http://ericzhou0815.github.io/Boad-Seat-Reservation/',
                 codeUrl:'http://github.com/EricZhou0815/Boad-Seat-Reservation'
             },
             {
-                imageUrl:'https://doc-00-74-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/i3fl5taq6t7qdbr26ci530mjabjhkpfc/1539633600000/06818399670873483218/*/1F4ZYhxPFmSaGB0tahwnlQjnzPPAY-ONo',
-                name:'Boat Seats Booking UI',
-                description:'The web UI is an assignment for Internet & Website Development',
-                techStacks:['HTML','CSS','Javascript'],
-                demoUrl:'http://ericzhou0815.github.io/Boad-Seat-Reservation/',
+                imageUrl:qualitysouvenirs,
+                name:'Quality Souvenirs (ASP.NET)',
+                description:'E-commerce website with ASP.net Core Framework',
+                techStacks:['C#','ASP.NET Core MVC','jQuery','MSSQL'],
+                demoUrl:'https://dochyper.unitec.ac.nz/zhouz32/asp_application1',
                 codeUrl:'http://github.com/EricZhou0815/Boad-Seat-Reservation'
-            },
+            },  
             {
-                imageUrl:'https://doc-00-74-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/i3fl5taq6t7qdbr26ci530mjabjhkpfc/1539633600000/06818399670873483218/*/1F4ZYhxPFmSaGB0tahwnlQjnzPPAY-ONo',
-                name:'Boat Seats Booking UI',
-                description:'The web UI is an assignment for Internet & Website Development',
-                techStacks:['HTML','CSS','Javascript'],
+                imageUrl:QS,
+                name:'Quality Souvenirs (React & PHP)',
+                description:'E-commerce website with React and Laravel',
+                techStacks:['React','jQuery','Ajax','PHP','Laravel','MySQL'],
                 demoUrl:'http://ericzhou0815.github.io/Boad-Seat-Reservation/',
-                codeUrl:'http://github.com/EricZhou0815/Boad-Seat-Reservation'
-            },
-            {
-                imageUrl:'https://doc-00-74-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/i3fl5taq6t7qdbr26ci530mjabjhkpfc/1539633600000/06818399670873483218/*/1F4ZYhxPFmSaGB0tahwnlQjnzPPAY-ONo',
-                name:'Boat Seats Booking UI',
-                description:'The web UI is an assignment for Internet & Website Development',
-                techStacks:['HTML','CSS','Javascript'],
-                demoUrl:'http://ericzhou0815.github.io/Boad-Seat-Reservation/',
-                codeUrl:'http://github.com/EricZhou0815/Boad-Seat-Reservation'
-            }    
+                codeUrl:'https://github.com/EricZhou0815/QualitySouvenirs'
+            },  
         ];
 
       return (
@@ -48,8 +43,6 @@ class Portfolio extends Component {
             </div>
             <div className="container-fluid padding">
                 <div className="mySubTittle">MY PROJECTS</div>
-                <p className="mySummary">Here are some of my latest projects.</p>
-                <p className="mySummary">Click on the cards to explore them.</p>
                 <div className="row padding">
                 {
                     projects.map((project,i)=>{

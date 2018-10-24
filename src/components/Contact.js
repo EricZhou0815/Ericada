@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contact=()=> {
       return (
-        <div id="portfolioSection">
+        <div id="contactSection">
         <div className="myContainer">
             <div className="hero-image heroContact">
                 <div className="hero-text">

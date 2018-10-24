@@ -16,6 +16,7 @@ class App extends Component {
         <div>
           <Navigation />
           <div  className="mySection">
+          {/*
           <Switch>
             <Route path="/" component={Home} exact />
             <Route path="/about" component={About} exact />
@@ -23,6 +24,13 @@ class App extends Component {
             <Route path="/Contact" component={Contact} exact />
             <Route component={Error} exact />
           </Switch>
+          */}
+        
+          <Home />
+          <About />
+          <Portfolio />
+          <Contact />
+
           </div>
         <Footer />
         </div>
