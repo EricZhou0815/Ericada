@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/AddStrip.e1af6360.png"
   },
   {
-    "revision": "aa9c4bcc3d6f7f69c1fd",
+    "revision": "fdb892d2aa611768f931",
     "url": "/static/css/main.3faa0eb5.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/static/media/addnote.a9cf5947.PNG"
   },
   {
-    "revision": "aa9c4bcc3d6f7f69c1fd",
-    "url": "/static/js/main.aa9c4bcc.chunk.js"
+    "revision": "fdb892d2aa611768f931",
+    "url": "/static/js/main.fdb892d2.chunk.js"
   },
   {
     "revision": "f29d769ec27a726d89604a28e29cba3e",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/static/media/hero-image.70764b84.jpg"
   },
   {
-    "revision": "5b097545e03c2a4f2cb59dedd814f9fc",
+    "revision": "726b1c86b7b6b86fc6adb2f8a691a9e2",
     "url": "/index.html"
   }
 ];
