@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "homepage": "https://www.ericada.com",
-=======
-  "homepage": "https://ricZhou0815.github.io/Ericada",
->>>>>>> 96a2c7e88bedd523c9502e756754fe73ba6fc09e
   "name": "my-website",
   "version": "0.1.0",
   "private": true,
