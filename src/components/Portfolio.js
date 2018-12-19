@@ -40,7 +40,7 @@ class Portfolio extends Component {
                 name:'Quality Souvenirs (Laravel)',
                 description:'An E-commerce website developed with Laravel Framework. User can register with email confirmation, browse products, add products to shopping cart, and place an order. Administrator can manage catalogs, users, and orders.',
                 techStacks:['PHP','Laravel','MySQL','session'],
-                demoUrl:'',
+                demoUrl:'https://github.com/EricZhou0815/QualitySouvenirs-ASP',
                 codeUrl:'https://github.com/EricZhou0815/QualitySouvenirs-ASP'
             },  
             {
@@ -48,7 +48,7 @@ class Portfolio extends Component {
                 name:'NoteApp',
                 description:'A C# applicatin allow users to manage notes',
                 techStacks:['C#','WF'],
-                demoUrl:'',
+                demoUrl:'https://github.com/EricZhou0815/NoteApp',
                 codeUrl:'https://github.com/EricZhou0815/NoteApp'
             },  
             {
@@ -56,7 +56,7 @@ class Portfolio extends Component {
                 name:'AddStrip',
                 description:'A C# mini claculator',
                 techStacks:['C#','WF'],
-                demoUrl:'',
+                demoUrl:'https://github.com/EricZhou0815/AddStrip',
                 codeUrl:'https://github.com/EricZhou0815/AddStrip'
             },
             {
@@ -64,7 +64,7 @@ class Portfolio extends Component {
                 name:'Hyggee',
                 description:'An application allows travelers sharing their trip plans and add other people with same plans to the group, as well as sharing the costs.Backend is developed with Django_REST_Framework, and Frontend is developed with React. Currently working on the backend.',
                 techStacks:['React','Django_REST','AJAX','sqlite3'],
-                demoUrl:'',
+                demoUrl:'https://github.com/EricZhou0815/hyggee',
                 codeUrl:'https://github.com/EricZhou0815/hyggee'
             }
         ];
