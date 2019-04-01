@@ -13,8 +13,12 @@ const About =()=> {
             <div className="container-fluid padding">
                 <div className="mySubTittle">Eric Zhou</div>
                     <div className="myIntroduction">                
-                        <p>I'm a CS student in Unitec Institute of Technology studying Graduate Diploma in Computing.</p>
-                        <p></p>
+                        <p>Recent graduate with Graduate Diploma in Computing in Unitec with average grade of A-.</p>
+                        <p>Five years of experience working in a multinational business environment.</p>
+                        <p>Able to leverage frameworks to build responsive websites and REST API.</p>
+                        <p>Experience of building application front-end with React / Angular.</p>
+                        <p>Local developer intern and international developer volunteering experience.</p> 
+                        <p>Passionate about solving real-world problems with new technologies.</p>
                     </div>
 
             </div>

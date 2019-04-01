@@ -18,7 +18,7 @@ class Portfolio extends Component {
                 imageUrl:travare,
                 name:'Travare Mobile App',
                 description:'A mobile platform where people can share journey, car and cost.',
-                techStacks:['node.js','express','React Native','Rest API', 'MongoDB', 'UX/UI'],
+                techStacks:['node.js','express','React Native','Rest API','MongoDB','UX/UI','Sketch','JWT'],
                 demoUrl:'https://ideation-deloittegarage.bemyapp.com/#/projects/5c3e30c57cc0b60004dc17c5',
                 codeUrl:'https://github.com/EricZhou0815/Travare-Mobile-React-Native'
             },
@@ -26,14 +26,14 @@ class Portfolio extends Component {
                 imageUrl:eventbooking,
                 name:'Event Booking App',
                 description:'A platform allows people to create and share events.',
-                techStacks:['MongoDB','Express','React','Node.js','GraphQL'],
+                techStacks:['MongoDB','Express','React','Node.js','GraphQL','JWT'],
                 demoUrl:'https://github.com/EricZhou0815/Event-booking-react-node-graphql',
                 codeUrl:'https://github.com/EricZhou0815/Event-booking-react-node-graphql'
             },
             {
                 imageUrl:angulartodo,
                 name:'Angular-Todo-App',
-                description:'A simple Todo Application written with Angular.',
+                description:'A simple Todo Application written with Angular, connecting to a fake api.',
                 techStacks:['HTML','CSS','Angualr'],
                 demoUrl:'https://github.com/EricZhou0815/Angular-Todo-App',
                 codeUrl:'https://github.com/EricZhou0815/Angular-Todo-App'

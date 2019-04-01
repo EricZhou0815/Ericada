@@ -13,7 +13,8 @@ class Home extends Component {
                 <div className="myName">ERIC ZHOU</div>
                 <h4>SOFTWARE DEVELOPER</h4>
                 <h5>Javascript | C# | PHP | Python</h5>
-                <h5>React | ASP.net | Laravel | Django | Bootstrap | RESTapi | MSSQL/MySQL</h5>
+                <h5>React | Angular | ASP.net | Laravel | Django | Node</h5>
+                <h5>MSSQL/MySQL/MongoDB | REST API | GraphQL</h5>
             </div>
         </div>
     </section>
