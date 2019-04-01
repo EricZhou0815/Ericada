@@ -7,10 +7,37 @@ import addstrip from '../images/AddStrip.png';
 import qs from '../images/QS.png';
 import fraction from '../images/fraction.png';
 import hyggee from '../images/hyggee.png';
+import angulartodo from '../images/angulartodo.png';
+import eventbooking from '../images/eventbooking.png';
+import travare from '../images/travare.png';
 
 class Portfolio extends Component {
     render() {
         const projects=[
+             {
+                imageUrl:travare,
+                name:'Travare Mobile App',
+                description:'A mobile platform where people can share journey, car and cost.',
+                techStacks:['node.js','express','React Native','Rest API', 'MongoDB', 'UX/UI'],
+                demoUrl:'https://ideation-deloittegarage.bemyapp.com/#/projects/5c3e30c57cc0b60004dc17c5',
+                codeUrl:'https://github.com/EricZhou0815/Travare-Mobile-React-Native'
+            },
+            {
+                imageUrl:eventbooking,
+                name:'Event Booking App',
+                description:'A platform allows people to create and share events.',
+                techStacks:['MongoDB','Express','React','Node.js','GraphQL'],
+                demoUrl:'https://github.com/EricZhou0815/Event-booking-react-node-graphql',
+                codeUrl:'https://github.com/EricZhou0815/Event-booking-react-node-graphql'
+            },
+            {
+                imageUrl:angulartodo,
+                name:'Angular-Todo-App',
+                description:'A simple Todo Application written with Angular.',
+                techStacks:['HTML','CSS','Angualr'],
+                demoUrl:'https://github.com/EricZhou0815/Angular-Todo-App',
+                codeUrl:'https://github.com/EricZhou0815/Angular-Todo-App'
+            },
             {
                 imageUrl:boatseatreservation,
                 name:'Taupo Boat Adventure',
