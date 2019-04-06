@@ -1,0 +1,19 @@
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+    - node_modules
+script:
+  - npm test
+before_deploy:
+  - npm run build
+deploy:
+  provider: pages
+  skip-cleanup: true
+  keep_history: true
+  github_token: $gihub_token
+  target-branch: gh-pages
+  local_dir: dist
+  on:
+    branch: master
