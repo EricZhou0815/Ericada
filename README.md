@@ -8,4 +8,6 @@
 
 My personal portfolio website developed with ReactJS.
 
+The website includes my basic information and a list of my selected projects.
+
 [www.ericada.com](www.ericada.com)
