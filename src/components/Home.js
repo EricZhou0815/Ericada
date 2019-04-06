@@ -14,7 +14,7 @@ class Home extends Component {
                 <h4>SOFTWARE DEVELOPER</h4>
                 <h5>Javascript | C# | PHP | Python</h5>
                 <h5>React | Angular | ASP.net | Laravel | Django | Node</h5>
-                <h5>MSSQL/MySQL/MongoDB | REST API | GraphQL</h5>
+                <h5>MSSQL/MySQL/MongoDB | REST API | GraphQL | CI/CD</h5>
             </div>
         </div>
     </section>

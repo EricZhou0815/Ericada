@@ -18,8 +18,8 @@ class ProjectCard extends Component {
                     })
                 }
                 </div>
-                <a href={this.props.demoUrl} target="_blank" className="projectCardButton btn btn-success">Demo</a>
-                <a href={this.props.codeUrl} target="_blank" className="projectCardButton btn btn-info">Code</a>
+                <a href={this.props.demoUrl} target="_blank" rel="noopener noreferrer" className="projectCardButton btn btn-success">Demo</a>
+                <a href={this.props.codeUrl} target="_blank" rel="noopener noreferrer" className="projectCardButton btn btn-info">Code</a>
             </div>
         </div>
     </div>

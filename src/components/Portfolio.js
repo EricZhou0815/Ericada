@@ -34,8 +34,8 @@ class Portfolio extends Component {
                 imageUrl:angulartodo,
                 name:'Angular-Todo-App',
                 description:'A simple Todo Application written with Angular, connecting to a fake api.',
-                techStacks:['HTML','CSS','Angualr'],
-                demoUrl:'https://github.com/EricZhou0815/Angular-Todo-App',
+                techStacks:['HTML','CSS','Angualr','CI/CD'],
+                demoUrl:'https://ericzhou0815.github.io/Angular-Todo-App/',
                 codeUrl:'https://github.com/EricZhou0815/Angular-Todo-App'
             },
             {
