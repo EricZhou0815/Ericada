@@ -67,8 +67,8 @@ class Portfolio extends Component {
                 name:'Quality Souvenirs (Laravel)',
                 description:'An E-commerce website developed with Laravel Framework. User can register with email confirmation, browse products, add products to shopping cart, and place an order. Administrator can manage catalogs, users, and orders.',
                 techStacks:['PHP','Laravel','MySQL','session'],
-                demoUrl:'https://github.com/EricZhou0815/QualitySouvenirs-ASP',
-                codeUrl:'https://github.com/EricZhou0815/QualitySouvenirs-ASP'
+                demoUrl:'https://github.com/EricZhou0815/Quality-Souvenirs-Laravel',
+                codeUrl:'https://github.com/EricZhou0815/Quality-Souvenirs-Laravel'
             },  
             {
                 imageUrl:noteapp,
