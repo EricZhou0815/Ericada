@@ -3,7 +3,7 @@ import ProjectCard from '../components/project-card/ProjectCard';
 import boatseatreservation from '../images/Boad-Seat-Reservation.png';
 import qualitysouvenirs from '../images/QualitySouvenirs.png';
 import noteapp from '../images/addnote.PNG';
-import addstrip from '../images/AddStrip.png';
+import jsgame from '../images/javascriptgame.png';
 import qs from '../images/QS.png';
 import fraction from '../images/fraction.png';
 import hyggee from '../images/hyggee.png';
@@ -79,12 +79,12 @@ class Portfolio extends Component {
                 codeUrl:'https://github.com/EricZhou0815/NoteApp'
             },  
             {
-                imageUrl:addstrip,
-                name:'AddStrip',
-                description:'A C# mini claculator',
-                techStacks:['C#','WF'],
-                demoUrl:'https://github.com/EricZhou0815/AddStrip',
-                codeUrl:'https://github.com/EricZhou0815/AddStrip'
+                imageUrl:jsgame,
+                name:'JavaScript Game',
+                description:'A mini javaScript game.',
+                techStacks:['javascript','HTML','CSS'],
+                demoUrl:'https://ericzhou0815.github.io/JavaScript-game-catch-the-flower/',
+                codeUrl:'https://github.com/EricZhou0815/JavaScript-game-catch-the-flower'
             },
             {
                 imageUrl:hyggee,
