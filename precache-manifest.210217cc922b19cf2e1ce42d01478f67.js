@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7b5a3d5133e15995dae6",
+    "revision": "16ead50a6dc45782dfc4",
     "url": "/static/css/main.b349dbf9.chunk.css"
   },
   {
-    "revision": "7b5a3d5133e15995dae6",
-    "url": "/static/js/main.7b5a3d51.chunk.js"
+    "revision": "16ead50a6dc45782dfc4",
+    "url": "/static/js/main.16ead50a.chunk.js"
   },
   {
     "revision": "c7ec29502f1599119db6",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/static/media/addnote.a9cf5947.PNG"
   },
   {
-    "revision": "e1af636076c7443513f821308b2d2866",
-    "url": "/static/media/AddStrip.e1af6360.png"
+    "revision": "29da48e18780eecdb80bdeb4062c03ba",
+    "url": "/static/media/javascriptgame.29da48e1.png"
   },
   {
     "revision": "f29d769ec27a726d89604a28e29cba3e",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/static/media/hero-image.70764b84.jpg"
   },
   {
-    "revision": "c34dd3192c36e82762ad548a16817665",
+    "revision": "cc0374fdca4a6709155d34681ae72ebd",
     "url": "/index.html"
   }
 ];

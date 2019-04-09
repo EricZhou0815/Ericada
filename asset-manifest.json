@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.b349dbf9.chunk.css",
-  "main.js": "/static/js/main.7b5a3d51.chunk.js",
-  "main.js.map": "/static/js/main.7b5a3d51.chunk.js.map",
+  "main.js": "/static/js/main.16ead50a.chunk.js",
+  "main.js.map": "/static/js/main.16ead50a.chunk.js.map",
   "static/js/1.c7ec2950.chunk.js": "/static/js/1.c7ec2950.chunk.js",
   "static/js/1.c7ec2950.chunk.js.map": "/static/js/1.c7ec2950.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -10,7 +10,7 @@
   "static/media/Boad-Seat-Reservation.png": "/static/media/Boad-Seat-Reservation.7b8a5d34.png",
   "static/media/QualitySouvenirs.png": "/static/media/QualitySouvenirs.cf223f21.png",
   "static/media/addnote.PNG": "/static/media/addnote.a9cf5947.PNG",
-  "static/media/AddStrip.png": "/static/media/AddStrip.e1af6360.png",
+  "static/media/javascriptgame.png": "/static/media/javascriptgame.29da48e1.png",
   "static/media/QS.png": "/static/media/QS.f29d769e.png",
   "static/media/fraction.png": "/static/media/fraction.1d56d8ac.png",
   "static/media/hyggee.png": "/static/media/hyggee.7ac278d6.png",
@@ -20,6 +20,6 @@
   "static/media/App.css": "/static/media/hero-image.70764b84.jpg",
   "static/css/main.b349dbf9.chunk.css.map": "/static/css/main.b349dbf9.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.8e1ac699dce53f115a262efbbb19b69b.js": "/precache-manifest.8e1ac699dce53f115a262efbbb19b69b.js",
+  "precache-manifest.210217cc922b19cf2e1ce42d01478f67.js": "/precache-manifest.210217cc922b19cf2e1ce42d01478f67.js",
   "service-worker.js": "/service-worker.js"
 }
