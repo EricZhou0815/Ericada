@@ -6,7 +6,7 @@
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/EricZhou0815/Ericada.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/EricZhou0815/Ericada/context:javascript)
 
 
-My personal portfolio website developed with ReactJS.
+My personal portfolio website developed with ReactJS with CI/CD (Travis CI).
 
 The website includes my basic information and a list of my selected projects.
 
